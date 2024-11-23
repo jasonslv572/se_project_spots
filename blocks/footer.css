@@ -2,8 +2,7 @@
   display: flex;
   justify-content: center;
   text-wrap: nowrap;
-  min-height: 100px;
-  margin: 60px 0;
+  padding: 60px 0;
   background: #fcf5e5;
 }
 
@@ -11,7 +10,5 @@
   margin: 0;
   font-weight: 400;
   font-size: 16px;
-
-  width: 104px;
-  height: 16px;
+  max-width: 104px;
 }
